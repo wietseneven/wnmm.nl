@@ -1,17 +1,17 @@
-Title: Kirby Starterkit
+Title: WNMM Other stuff site
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Wietse Neven
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: This is the other stuff site from Wietse Neven
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords: stuff, development, etc.
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+Copyright: © 2014-(date: Year) (link: http://wn-multimedia.nl text: WN Multimedia)
